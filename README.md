@@ -201,7 +201,7 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 git push -u origin fix. 
 ```
 3. Посмотрим, как визуально выглядит ваша схема коммитов  
-[схема коммитов](https://github.com/ysatii/devops-netology/network)
+ [схема коммитов](https://github.com/ysatii/devops-netology/network)
 
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_1.jpg)
 
