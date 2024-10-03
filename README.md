@@ -96,23 +96,50 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 ## Решение 1. 
 1. Регистрация в  GitLab. Используем логин и пароль  для авторизации
- ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1.jpg)
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1.jpg)  
 
+ 
+
+2. Создадим проект  
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_1.jpg)
-
+3. Добавим ключи 
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_2.jpg)
 
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_3.jpg)
+4. перйдем на страницу проекта 
+
+ [Страница проекта](https://gitlab.com/yurii_melnik/devops-netology )
 
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_4.jpg)
 
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_5.jpg)
 
- ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_6.jpg)
+5. Скопируем проект на новый репозиторий
+ 
+ командой 
+ ```sh
+ git remote add gitlab https://gitlab.com/yurii_melnik/devops-netology
+```
+Добавим новый репозиторий  
+
+Командой  
+ ```sh
+ git remote -v
+```
+Выведем все репозитории 
+
+
 
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_7.jpg)
-
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_8.jpg)
+
+ Командой  
+ ```sh
+ git push -u gitlab main
+```
+Отправим изминения в репозиторий
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_6.jpg)
 
 
 ## Задание 2. Теги
