@@ -191,6 +191,23 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 и как изменится вывод команды `git log`.
 </details>
 
+## Решение 3
+1. Переключимся обратно на ветку main, которая должна быть связана с веткой main репозитория на github.  
+Посмотрим лог коммитов и найдем хеш коммита с названием **Prepare to delete and move**, который был создан в пределах предыдущего домашнего задания.
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_1.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_2.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_3.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_4.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_5.jpg)
+
+![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_6.jpg)
+
 ## Задание 4. Упрощаем себе жизнь
 <details>
 <summary>Нажмите для просмотра просмотра задания</summary>
