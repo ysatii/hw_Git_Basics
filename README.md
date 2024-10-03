@@ -209,14 +209,12 @@ git push -u origin fix.
 
 
 4. Изменим содержание файла README.md, добавив новую строчку.
-
-
-5. Отправим изменения в репозиторий и посмотрите, как изменится схема на странице
-
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_3.jpg)
 
+5. Отправим изменения в репозиторий и посмотрите, как изменится схема на странице
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_4.jpg)
-  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_5.jpg)
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_5.jpg)
+
 6. Как изменится вывод команды git log
 
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_6.jpg)
