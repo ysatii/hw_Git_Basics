@@ -258,3 +258,6 @@ git push -u origin fix.
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image4_4.jpg)
 
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image4_5.jpg)
+ 
+ССылка на репозиторий ветка **fix**
+ [Работа с гитом](https://github.com/ysatii/devops-netology/tree/fix)
