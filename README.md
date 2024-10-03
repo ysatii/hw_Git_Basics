@@ -200,13 +200,16 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 ```sh
 git push -u origin fix. 
 ```
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_1.jpg)
+
 3. Посмотрим, как визуально выглядит ваша схема коммитов  
  [схема коммитов](https://github.com/ysatii/devops-netology/network)
 
- ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_1.jpg)
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_2.jpg)
+
 
 4. Изменим содержание файла README.md, добавив новую строчку.
- ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image3_2.jpg)
+
 
 5. Отправим изменения в репозиторий и посмотрите, как изменится схема на странице
 
