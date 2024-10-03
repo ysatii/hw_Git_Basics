@@ -163,8 +163,10 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 ## Решение 2.
 1. Пометим тегами указатель ветки и выведем сисок коммитов  
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image2.jpg)  
+
 2. Отправим изминения в репозиторий  
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image2_1.jpg)
+
 3. Убедимся в наличии тегов  
  в GitHub — https://github.com/ysatii/devops-netology/releases;  
  ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image2_2.jpg)
