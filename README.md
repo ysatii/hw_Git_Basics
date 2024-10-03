@@ -2,6 +2,8 @@
 
 
 ## Задание 1. Знакомимся с GitLab и Bitbucket 
+<details>
+<summary>Нажмите для просмотра просмотра задания</summary>
 
 Из-за сложности доступа к Bitbucket в работе достаточно использовать два репозитория: GitHub и GitLab.
 
@@ -92,7 +94,7 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 Выполните push локальной ветки `main` в новые репозитории. 
 
 Подсказка: `git push -u gitlab main`. На этом этапе история коммитов во всех трёх репозиториях должна совпадать. 
-
+</details>
 
 ## Решение 1. 
 1. Регистрация в  GitLab. Используем логин и пароль  для авторизации
@@ -144,6 +146,8 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 ## Задание 2. Теги
 
+<details>
+<summary>Нажмите для просмотра просмотра задания</summary>
 Представьте ситуацию, когда в коде была обнаружена ошибка — надо вернуться на предыдущую версию кода,
 исправить её и выложить исправленный код в продакшн. Мы никуда не будем выкладывать код, но пометим некоторые коммиты тегами и создадим от них ветки. 
 
@@ -153,6 +157,20 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
     * в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
     * в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
     * в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке. 
+
+</details>
+
+## Решение 2.
+1. Пометим тегами указатель ветки и выведем сисок коммитов  
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image2.jpg)  
+2. Отправим изминения в репозиторий  
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image2_1.jpg)
+3. Убедимся в наличии тегов  
+ в GitHub — https://github.com/ysatii/devops-netology/releases;  
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image2_2.jpg)
+ 
+ в GitLab — https://gitlab.com/yurii_melnik/devops-netology/-/tags;
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image2_3.jpg)
 
 ## Задание 3. Ветки 
 
