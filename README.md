@@ -243,3 +243,18 @@ git push -u origin fix.
 ----
 
 </details>
+
+## Решение 4
+1. Работаем с Git c помощью визуального редактора **IDE PyCharm**
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image4.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image4_1.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image4_2.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image4_3.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image4_4.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image4_5.jpg)
