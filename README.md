@@ -93,6 +93,28 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 Подсказка: `git push -u gitlab main`. На этом этапе история коммитов во всех трёх репозиториях должна совпадать. 
 
+
+## Решение 1. 
+1. Регистрация в  GitLab. Используем логин и пароль  для авторизации
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_1.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_2.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_3.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_4.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_5.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_6.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_7.jpg)
+
+ ![Работа с гитом](https://github.com/ysatii/hw_Git_Basics/blob/main/img/image1_8.jpg)
+
+
 ## Задание 2. Теги
 
 Представьте ситуацию, когда в коде была обнаружена ошибка — надо вернуться на предыдущую версию кода,
